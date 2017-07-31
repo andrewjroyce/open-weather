@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
+# Open Weather
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/3129129/22811426/bb69dc06-ef0c-11e6-8092-a0bea9060b35.png"/></p>
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+React and Redux project demonstrating use of Axios, GoogleMaps API, Sparklines and OpenWeather API.  
 
 ### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone 
+> cd 
 > npm install
 > npm start
 ```
