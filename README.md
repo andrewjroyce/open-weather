@@ -1,5 +1,5 @@
 # Open Weather
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/3129129/22811426/bb69dc06-ef0c-11e6-8092-a0bea9060b35.png"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/25350697/28793803-3871c6a6-7602-11e7-99b9-35275153bfc9.gif"/></p>
 
 React and Redux project demonstrating use of Axios, GoogleMaps API, Sparklines and OpenWeather API.  
 
